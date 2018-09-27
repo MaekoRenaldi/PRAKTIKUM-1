@@ -1,2 +1,2 @@
-# PRAKTIKUM-1
+# TUGAS KULIAH
 pemprograman lannjut
