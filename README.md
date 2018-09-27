@@ -1,2 +1,2 @@
 # TUGAS KULIAH
-pemprograman lannjut
+pemprograman lanjut
